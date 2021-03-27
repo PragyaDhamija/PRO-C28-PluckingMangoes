@@ -66,6 +66,7 @@ function draw() {
   textSize(20);
   fill("")
   text("Press Space key to get a Second Chance to play!!! ",50,50);
+  text("Target and hit the mangoes with the help of the stone...",50,70);
 
 
     //groundO.display();
